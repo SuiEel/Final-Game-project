@@ -1,0 +1,7 @@
+open the processing folder group_2_finalproject.pde and press play. A menu should appear and 
+you can pause the game or restart. 
+
+You can play this with or without the arduino without changing the processing code.  
+If you want to play with the arduino, you need to download the arduino software, 
+run the arduinotestcode file, and upload the code to the arduino, then run the processing 
+file.
